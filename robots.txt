@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://robertzo.github.io/blogbyrobert/sitemap.xml
