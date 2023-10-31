@@ -3,10 +3,31 @@
     <title>Blog With Robert</title>
     <link href="https://robertzo.github.io/blogbyrobert/feed.xml" rel="self" />
     <link href="https://robertzo.github.io/blogbyrobert" />
-    <updated>1969-12-31T17:00:00-07:00</updated>
+    <updated>2023-10-30T21:41:02-06:00</updated>
     <author>
         <name>Robert Zou</name>
     </author>
     <id>https://robertzo.github.io/blogbyrobert</id>
 
+    <entry>
+        <title>First Blog Post</title>
+        <author>
+            <name>Robert Zou</name>
+        </author>
+        <link href="https://robertzo.github.io/blogbyrobert/first-blog-post.html"/>
+        <id>https://robertzo.github.io/blogbyrobert/first-blog-post.html</id>
+
+        <updated>2023-10-30T21:41:02-06:00</updated>
+            <summary>
+                <![CDATA[
+                    This is my first blog post, this is the starting point of my journey to be a blogger. Hope you enjoy my blog :)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is my first blog post, this is the starting point of my journey to be a blogger.</p>
+<p>Hope you enjoy my blog :)</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

@@ -9,5 +9,19 @@
         "name": "Robert Zou"
     },
     "items": [
+        {
+            "id": "https://robertzo.github.io/blogbyrobert/first-blog-post.html",
+            "url": "https://robertzo.github.io/blogbyrobert/first-blog-post.html",
+            "title": "First Blog Post",
+            "summary": "This is my first blog post, this is the starting point of my journey to be a blogger. Hope you enjoy my blog :)",
+            "content_html": "<p>This is my first blog post, this is the starting point of my journey to be a blogger.</p>\n<p>Hope you enjoy my blog :)</p>",
+            "author": {
+                "name": "Robert Zou"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-30T21:41:02-06:00",
+            "date_modified": "2023-10-30T21:41:02-06:00"
+        }
     ]
 }
