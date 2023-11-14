@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Blog With Robert</title>
-    <link href="https://robertzo.github.io/blogbyrobert/feed.xml" rel="self" />
-    <link href="https://robertzo.github.io/blogbyrobert" />
+    <link href="https://blogwithrobert.com/feed.xml" rel="self" />
+    <link href="https://blogwithrobert.com" />
     <updated>2023-10-30T21:41:02-06:00</updated>
     <author>
         <name>Robert Zou</name>
     </author>
-    <id>https://robertzo.github.io/blogbyrobert</id>
+    <id>https://blogwithrobert.com</id>
 
     <entry>
         <title>First Blog Post</title>
         <author>
             <name>Robert Zou</name>
         </author>
-        <link href="https://robertzo.github.io/blogbyrobert/first-blog-post.html"/>
-        <id>https://robertzo.github.io/blogbyrobert/first-blog-post.html</id>
+        <link href="https://blogwithrobert.com/first-blog-post.html"/>
+        <id>https://blogwithrobert.com/first-blog-post.html</id>
 
         <updated>2023-10-30T21:41:02-06:00</updated>
             <summary>

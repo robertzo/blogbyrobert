@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Blog With Robert",
     "description": "",
-    "home_page_url": "https://robertzo.github.io/blogbyrobert",
-    "feed_url": "https://robertzo.github.io/blogbyrobert/feed.json",
+    "home_page_url": "https://blogwithrobert.com",
+    "feed_url": "https://blogwithrobert.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Robert Zou"
     },
     "items": [
         {
-            "id": "https://robertzo.github.io/blogbyrobert/first-blog-post.html",
-            "url": "https://robertzo.github.io/blogbyrobert/first-blog-post.html",
+            "id": "https://blogwithrobert.com/first-blog-post.html",
+            "url": "https://blogwithrobert.com/first-blog-post.html",
             "title": "First Blog Post",
             "summary": "This is my first blog post, this is the starting point of my journey to be a blogger. Hope you enjoy my blog :)",
             "content_html": "<p>This is my first blog post, this is the starting point of my journey to be a blogger.</p>\n<p>Hope you enjoy my blog :)</p>",
